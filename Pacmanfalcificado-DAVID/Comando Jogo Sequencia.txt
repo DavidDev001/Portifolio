@@ -1,0 +1,152 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Aula_Game
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            //Matrix é muito comparada ao Plano Cartesiano 
+
+            /* Variáveis */
+            string jogador;
+            string desafio;
+            string[,] cenario; // Matrix de 2 dimensões
+            bool vitoria;
+            int x, y; // Variáveis para definirmos onde irá começar 
+
+            /* Instruções (Teclado + Comando) */
+            ConsoleKeyInfo teclado; // Comando do Teclado
+            string comando; // Para podermosa armazenar os comandos nesta variável
+            
+
+            /* Inicializar a Variável */
+
+            jogador = "@";
+            vitoria = false; // começa com uma condição, nesse caso tem que ser falço porque o
+                             // objetivo é ganhar então o Verdadeiro seria o Ganhar, então ele
+                             // tem que começar com falso para ele poder ganhar.
+
+            desafio = "X";
+
+            /* Vetor ou Matrix */
+            cenario = new string[10, 10] // Criação da Fase(Cenário)
+            {
+                //0  1   2   3   4   5   6   7   8    9               10 colunas 
+                {"#","#","#","#","#","#","#","#","#","#"}, // 0      10 linhas 
+                {"#"," "," "," "," "," "," "," "," ","#"}, // 1
+                {"#"," "," "," "," "," "," "," "," ","#"}, // 2
+                {"#"," "," "," "," "," "," "," "," ","#"}, // 3
+                {"#"," "," "," "," "," "," "," "," ","#"}, // 4
+                {"#"," "," "," "," "," "," "," "," ","#"}, // 5
+                {"#"," "," "," "," "," "," "," "," ","#"}, // 6
+                {"#"," "," "," "," "," "," "," "," ","#"}, // 7
+                {"#"," "," "," "," "," "," "," "," ","#"}, // 8
+                {"#","#","#","#","#","#","#","#","#","#"}, // 9
+
+            };
+
+            x = 0;
+            y = 0;
+
+            /* Execução Durante o Jogo, estrutura de Repetição (Gameplay) */
+            do
+            {
+                /* Limpando a Tela Inicial */
+                Console.Clear();
+
+                /* Fluxo de Dados */
+                /* Entrada <=> Processamento <=> Saída */
+
+                Console.Title = "Nome do meu jogo";
+                Console.WriteLine("Tecle 'I' para Iniciar o Jogo");
+                comando = Console.ReadLine();
+
+                /* Inicia (instância) o objeto do Teclado */
+                teclado = new ConsoleKeyInfo();
+
+                /* Verifica se a Tecla for Igual a I, para Iniciar o Jogo */
+                if (comando.ToUpper() == "I") // ToUpper é um SubMétodo(), ele converte a Letra que o Usuário digitou em Maísculo
+                {
+
+                    /* Limpa Tela */
+                    Console.Clear();
+
+                    /* Exibir o Cenário */
+                    // Lê as linhas pois invertemos(y) e as colunas(x) da Matriz
+                    for (int linha = 0; linha < 10; linha++) // Chamando o Cenário = as Linhas
+                    {
+
+                        for (int coluna = 0; coluna < 10; coluna++)// Chamando o Cenário = as colunas
+                        {
+
+                            /* Exibe a informação da Coluna */
+                            Console.Write(cenario[linha, coluna]);
+
+                        }
+
+                        /* Ir para a próxima Linha */
+                        Console.WriteLine();
+
+                    }
+
+                    /* Exibe Menu de Comandos para Personagem */
+                    Console.WriteLine("Comandos");
+                    Console.WriteLine("(W) => Para Cima");
+                    Console.WriteLine("(S) => Para Baixo");
+                    Console.WriteLine("(A) => Para Esquerda");
+                    Console.WriteLine("(D) => Para Direita");
+                    Console.WriteLine("(Esc) => Para Sair");
+                    Console.WriteLine("Tecle o Comando: ");
+                    teclado = Console.ReadKey(); // Para pegar o comando que o Usuário digitou
+
+
+                    switch(teclado.Key)
+                    {
+                        case ConsoleKey.W:
+                            break;
+
+                        case ConsoleKey.S:
+                            break;
+
+                        case ConsoleKey.A:
+                            break;
+
+                        case ConsoleKey.D:
+                            break;
+
+                        default:
+                            break;
+                    }
+
+
+
+                }
+
+                else
+                {
+
+                    Console.WriteLine("Digite a teacla (ESQ) para Sair! e " +
+                        "\nTente Novamente");
+                    teclado = Console.ReadKey();
+
+                }
+
+                    Console.ReadKey();
+
+            }
+            while (teclado.Key != ConsoleKey.Escape); // pegando a tecla do Teclado que o Usuário irá digitar desde que seja igual ao Esque
+
+
+            
+
+            
+             
+        }
+    }
+}

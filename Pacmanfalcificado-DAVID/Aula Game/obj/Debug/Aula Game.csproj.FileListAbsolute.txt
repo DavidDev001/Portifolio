@@ -1,0 +1,40 @@
+C:\Users\alison.gramos\source\repos\Aula Game\Aula Game\bin\Debug\Aula Game.exe.config
+C:\Users\alison.gramos\source\repos\Aula Game\Aula Game\bin\Debug\Aula Game.exe
+C:\Users\alison.gramos\source\repos\Aula Game\Aula Game\bin\Debug\Aula Game.pdb
+C:\Users\alison.gramos\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.AssemblyReference.cache
+C:\Users\alison.gramos\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\alison.gramos\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.CoreCompileInputs.cache
+C:\Users\alison.gramos\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.exe
+C:\Users\alison.gramos\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.pdb
+C:\Users\david.amadeira\source\repos\Aula Game\Aula Game\bin\Debug\Aula Game.exe.config
+C:\Users\david.amadeira\source\repos\Aula Game\Aula Game\bin\Debug\Aula Game.exe
+C:\Users\david.amadeira\source\repos\Aula Game\Aula Game\bin\Debug\Aula Game.pdb
+C:\Users\david.amadeira\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.AssemblyReference.cache
+C:\Users\david.amadeira\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\david.amadeira\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.CoreCompileInputs.cache
+C:\Users\david.amadeira\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.exe
+C:\Users\david.amadeira\source\repos\Aula Game\Aula Game\obj\Debug\Aula Game.pdb
+C:\Users\David_gisele\Desktop\Aula Game\Aula Game\bin\Debug\Aula Game.exe.config
+C:\Users\David_gisele\Desktop\Aula Game\Aula Game\bin\Debug\Aula Game.exe
+C:\Users\David_gisele\Desktop\Aula Game\Aula Game\bin\Debug\Aula Game.pdb
+C:\Users\David_gisele\Desktop\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.AssemblyReference.cache
+C:\Users\David_gisele\Desktop\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\David_gisele\Desktop\Aula Game\Aula Game\obj\Debug\Aula Game.csproj.CoreCompileInputs.cache
+C:\Users\David_gisele\Desktop\Aula Game\Aula Game\obj\Debug\Aula Game.exe
+C:\Users\David_gisele\Desktop\Aula Game\Aula Game\obj\Debug\Aula Game.pdb
+C:\Users\david.amadeira\source\repos\Pacmanfalcificado-DAVID\Aula Game\bin\Debug\Aula Game.exe.config
+C:\Users\david.amadeira\source\repos\Pacmanfalcificado-DAVID\Aula Game\bin\Debug\Aula Game.exe
+C:\Users\david.amadeira\source\repos\Pacmanfalcificado-DAVID\Aula Game\bin\Debug\Aula Game.pdb
+C:\Users\david.amadeira\source\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.csproj.AssemblyReference.cache
+C:\Users\david.amadeira\source\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\david.amadeira\source\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.csproj.CoreCompileInputs.cache
+C:\Users\david.amadeira\source\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.exe
+C:\Users\david.amadeira\source\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.pdb
+C:\Users\David_gisele\source\repos\repos\Pacmanfalcificado-DAVID\Aula Game\bin\Debug\Aula Game.exe.config
+C:\Users\David_gisele\source\repos\repos\Pacmanfalcificado-DAVID\Aula Game\bin\Debug\Aula Game.exe
+C:\Users\David_gisele\source\repos\repos\Pacmanfalcificado-DAVID\Aula Game\bin\Debug\Aula Game.pdb
+C:\Users\David_gisele\source\repos\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.csproj.AssemblyReference.cache
+C:\Users\David_gisele\source\repos\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\David_gisele\source\repos\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.csproj.CoreCompileInputs.cache
+C:\Users\David_gisele\source\repos\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.exe
+C:\Users\David_gisele\source\repos\repos\Pacmanfalcificado-DAVID\Aula Game\obj\Debug\Aula Game.pdb
